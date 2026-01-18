@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-01-03",
+    "hora": "18:00",
+    "titulo": "Concierto navideño",
+    "organiza": "Cofradía del Santísimo Cristo de la Misericordia",
+    "descripcion": "Con la actuación de la Coral Amadeus JM y la Orquesta Murcia Selección.",
+    "lugar": "Iglesia de San Miguel Arcángel",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 2,
+    "fecha": "2026-01-03",
+    "hora": "20:00",
+    "titulo": "Clausura del Belén de la Cofradía",
+    "organiza": "Real y Venerable Cofradía del Stmo Cristo del Amparo y María Stma de los Dolores",
+    "descripcion": "",
+    "lugar": "Ermita del Pilar",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 3,
+    "fecha": "2026-01-04",
+    "hora": "12:00",
+    "titulo": "Misa por los Hermanos Esclavos Difuntos",
+    "organiza": "Hermandad de Esclavos de Nuestro Padre Jesús del Rescate y María Santísima de la Esperanza",
+    "descripcion": "",
+    "lugar": "Iglesia Parroquial de San Juan Bautista",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 4,
+    "fecha": "2026-01-04",
+    "hora": "17:00",
+    "titulo": "Visita de los Reyes Magos",
+    "organiza": "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "descripcion": "",
+    "lugar": "Conjunto Monumental de San Juan de Dios",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 5,
+    "fecha": "2026-01-11",
+    "hora": "18:00",
+    "titulo": "Festividad del Dulce nombre de Jesús",
+    "organiza": "Real y Muy Ilustre Cofradía del Santo Sepulcro",
+    "descripcion": "Celebración Eucarística presidida por la imagen del Divino Niño Perdido en el Templo",
+    "lugar": "Iglesia parroquial de San Bartolomé-Santa María",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 6,
+    "fecha": "2026-01-11",
+    "hora": "19:30",
+    "titulo": "Celebración de la Eucaristía conmemorativa de la fundación de la Cofradía",
+    "organiza": "Real y Venerable Cofradía del Stmo Cristo del Amparo y María Stma de los Dolores",
+    "descripcion": "Al término de la misma, entrega de diplomas a cofrades con una antigüedad de xxv años.",
+    "lugar": "Iglesia parroquial de San Nicolás de Bari",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 7,
+    "fecha": "2026-01-14",
+    "hora": "20:00",
+    "titulo": "Inauguración de la Exposición El Sueño de Salzillo. La Noche California",
+    "organiza": "Real y Muy Ilustre Cabildo Superior de Cofradías de Murcia",
+    "descripcion": "Del 14 de enero al 28 de febrero del 2026",
+    "lugar": "Ermita del Pilar",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 8,
+    "fecha": "2026-01-17",
+    "hora": "12:00",
+    "titulo": "Presentación Cartel de Semana Santa 2026. Autor, Pregonero y Nazareno del Año 2026, Pregonero del Ángel 2026.",
+    "organiza": "Real y Muy Ilustre Cabildo Superior de Cofradías de Murcia",
+    "descripcion": "",
+    "lugar": "Iglesia parroquial de San Bartolomé-Santa María",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 9,
+    "fecha": "2026-01-19",
+    "hora": "20:00",
+    "titulo": "Conferencias del XXXIII Aniversario",
+    "organiza": "Muy Ilustre y Venerable Cofradía del Santísimo Cristo de la Caridad",
+    "descripcion": "Parroquia de Santa Catalina. Historia viva de Murcia. A cargo del Dr. D. José Alberto Fernández Sánchez.",
+    "lugar": "Centro Municipal García Alix  Plz. Pedro Pou, s/n (San Antolín)",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 10,
+    "fecha": "2026-01-22",
+    "hora": "20:15",
+    "titulo": "Cabildo General Ordinario de Cuentas",
+    "organiza": "Cofradía del Santísimo Cristo del Refugio",
+    "descripcion": "",
+    "lugar": "Salones parroquia San Lorenzo Mártir",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 11,
+    "fecha": "2026-01-25",
+    "hora": "10:30",
+    "titulo": "Cabildo General Ordinario de Cuentas",
+    "organiza": "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "descripcion": "",
+    "lugar": "Sede de la Asociación",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 12,
+    "fecha": "2026-01-26",
+    "hora": "20:00",
+    "titulo": "Conferencias del XXXIII Aniversario",
+    "organiza": "Muy Ilustre y Venerable Cofradía del Santísimo Cristo de la Caridad",
+    "descripcion": "El antiguo patrimonio escultórico y proyectos en el tintero de la Cofradía del Cristo de la Caridad. A cargo de D. Miguel López Alcázar.",
+    "lugar": "Centro Municipal García Alix  Plz. Pedro Pou, s/n (San Antolín)",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 13,
+    "fecha": "2026-01-27",
+    "hora": "20:30",
+    "titulo": "Cabildo General Ordinario",
+    "organiza": "Hermandad de Esclavos de Nuestro Padre Jesús del Rescate y María Santísima de la Esperanza",
+    "descripcion": "",
+    "lugar": "Sede Social de la Hermandad",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 14,
+    "fecha": "2026-02-01",
+    "hora": "12:00",
+    "titulo": "Misa por los Hermanos Esclavos Difuntos",
+    "organiza": "Hermandad de Esclavos de Nuestro Padre Jesús del Rescate y María Santísima de la Esperanza",
+    "descripcion": "",
+    "lugar": "Iglesia Parroquial de San Juan Bautista",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 15,
+    "fecha": "2026-02-01",
+    "hora": "13:30",
+    "titulo": "Proyección del documental: El Stmo. Cristo de las Almas",
+    "organiza": "Pontificia, Real y Venerable Cofradía del Santísimo Cristo de la Esperanza, María Santísima de los Dolores y del Santo Celo por la Salvación de las Almas",
+    "descripcion": "Intervención de la Agrupación Musical Virgen de las Mercedes de Oria (Almería)",
+    "lugar": "Filmoteca Regional Francisco Rabal",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 16,
+    "fecha": "2026-02-02",
+    "hora": "20:30",
+    "titulo": "Sagrada Eucaristía en honor a la Stma. Virgen del Primer Dolor",
+    "organiza": "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "descripcion": "",
+    "lugar": "Iglesia Parroquial de San Miguel",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 17,
+    "fecha": "2026-02-04",
+    "hora": "21:00",
+    "titulo": "Misa primer miércoles de mes y meditación",
+    "organiza": "Real, Muy Ilustre, Venerable y Antiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "descripcion": "",
+    "lugar": "Iglesia Arciprestal Nuestra Señora del Carmen",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 18,
+    "fecha": "2026-02-12",
+    "hora": "21:00",
+    "titulo": "Charla de formación",
+    "organiza": "Cofradía del Santísimo Cristo del Refugio",
+    "descripcion": "Pepín Liria: Semana Santa y Tauromaquia",
+    "lugar": "Filmoteca Regional Francisco Rabal",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 19,
+    "fecha": "2026-02-14",
+    "hora": "13:00",
+    "titulo": "Presentación de la revista La Procesión nº 10",
+    "organiza": "Real y Muy Ilustre Cabildo Superior de Cofradías de Murcia",
+    "descripcion": "",
+    "lugar": "Iglesia de San Lorenzo Mártir",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 20,
+    "fecha": "2026-02-15",
+    "hora": "13:30",
+    "titulo": "Proyección del documental: 50 años de la Hermandad de San Juan Evangelista",
+    "organiza": "Pontificia, Real y Venerable Cofradía del Santísimo Cristo de la Esperanza, María Santísima de los Dolores y del Santo Celo por la Salvación de las Almas",
+    "descripcion": "Tras la proyección se realizará un concierto de marchas pasionarias a cargo de la Agrupación Musical Virgen de la Fuensanta de los Garres",
+    "lugar": "Filmoteca Regional Francisco Rabal",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 21,
+    "fecha": "2026-02-18",
+    "hora": "20:00",
+    "titulo": "Santa Misa e imposición de la ceniza",
+    "organiza": "Hermandad de Esclavos de Nuestro Padre Jesús del Rescate y María Santísima de la Esperanza",
+    "descripcion": "",
+    "lugar": "Iglesia Parroquial de San Juan Bautista",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 22,
+    "fecha": "2026-02-18",
+    "hora": "20:00",
+    "titulo": "Quinario al Stmo. Cristo de la Sangre",
+    "organiza": "Real, Muy Ilustre, Venerable y Antiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "descripcion": "Interpretación del Himno a la Preciosísima Sangre de Cristo",
+    "lugar": "Iglesia Arciprestal Nuestra Señora del Carmen",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 23,
+    "fecha": "2026-02-18",
+    "hora": "22:00",
+    "titulo": "Vía Crucis con el Stmo. Cristo de la Salud",
+    "organiza": "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "descripcion": "Solemne descendimiento del Stmo. Cristo de la Salud con posterior Vía Crucis por el entorno de la Catedral. Al término de éste, Sagrada Eucaristía con imposición de ceniza.",
+    "lugar": "Conjunto Monumental de San Juan de Dios",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 24,
+    "fecha": "2026-02-19",
+    "hora": "20:00",
+    "titulo": "Quinario al Stmo. Cristo de la Sangre",
+    "organiza": "Real, Muy Ilustre, Venerable y Antiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "descripcion": "",
+    "lugar": "Iglesia Arciprestal Nuestra Señora del Carmen",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 25,
+    "fecha": "2026-02-19",
+    "hora": "20:30",
+    "titulo": "Presentación del Cartel del Domingo de Ramos 2026 y la Revista Esperanza",
+    "organiza": "Pontificia, Real y Venerable Cofradía del Santísimo Cristo de la Esperanza, María Santísima de los Dolores y del Santo Celo por la Salvación de las Almas",
+    "descripcion": "",
+    "lugar": "Salón de Actos de la Cámara de Comercio",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 26,
+    "fecha": "2026-02-20",
+    "hora": "20:00",
+    "titulo": "Quinario al Stmo. Cristo de la Sangre",
+    "organiza": "Real, Muy Ilustre, Venerable y Antiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "descripcion": "",
+    "lugar": "Iglesia Arciprestal Nuestra Señora del Carmen",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 27,
+    "fecha": "2026-02-20",
+    "hora": "20:00",
+    "titulo": "Solemne Vía Crucis",
+    "organiza": "Cofradía del Santísimo Cristo de la Misericordia",
+    "descripcion": "Bendición del nuevo trono del Paso de Jesús Nazareno",
+    "lugar": "Calles adyacentes de San Miguel",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 28,
+    "fecha": "2026-02-20",
+    "hora": "20:45",
+    "titulo": "Solemne Vía Crucis",
+    "organiza": "Muy Ilustre y Venerable Cofradía del Santísimo Cristo de la Caridad",
+    "descripcion": "Acompañamiento María Santísima de los Dolores de la Cofradía del Amparo. (21,15 h). Intervención musical de la Hermandad de las Benditas Ánimas de Beniel. Al término del Via Crucis, se realizará el besapié y posterior colocación del Stmo. Cristo de la Caridad en su altar de cultos",
+    "lugar": "Calles adyacentes de Santa Catalina y San Nicolás",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 29,
+    "fecha": "2026-02-20",
+    "hora": "20:45",
+    "titulo": "Presentación del número 13 de la revista LOS AZULES",
+    "organiza": "Real y Venerable Cofradía del Stmo Cristo del Amparo y María Stma de los Dolores",
+    "descripcion": "Al término de la misma, recibimiento del Stmo Cristo de la Caridad de la Cofradía hermana de la Caridad, rezo de una estación del Vía Crucis y posterior acompañamiento con la imagen de la Stma. Virgen de los Dolores de nuestra Cofradía por las calles del barrio",
+    "lugar": "Iglesia parroquial de San Nicolás de Bari",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 30,
+    "fecha": "2026-02-21",
+    "hora": "19:30",
+    "titulo": "Sagrada Eucaristía en honor al Stmo. Cristo de la Salud de las Madres Capuchinas del Malecón",
+    "organiza": "Pontificia, Real, Hospitalaria y Primitiva Asociación del Santísimo Cristo de la Salud",
+    "descripcion": "",
+    "lugar": "Iglesia del Convento de Capuchinas",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 31,
+    "fecha": "2026-02-21",
+    "hora": "20:00",
+    "titulo": "Quinario al Stmo. Cristo de la Sangre",
+    "organiza": "Real, Muy Ilustre, Venerable y Antiquísima Archicofradía de la Preciosísima Sangre de Nuestro Señor Jesucristo",
+    "descripcion": "",
+    "lugar": "Iglesia Arciprestal Nuestra Señora del Carmen",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  },
+{
+    "id": 32,
+    "fecha": "2026-02-22",
+    "hora": "12:00",
+    "titulo": "Pregón de la Semana Santa de Murcia 2026",
+    "organiza": "Real y Muy Ilustre Cabildo Superior de Cofradías de Murcia",
+    "descripcion": "Pregonero: D. Jerónimo Tristante",
+    "lugar": "Teatro Romea de Murcia",
+    "escudo": "https://tudominio.com/escudos/misericordia.png"
+  }
+
+]
